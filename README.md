@@ -1,5 +1,5 @@
 # Spend Analyser.
-An android app for visualizing user's spends summary.
+An android app (made with FLutter) for visualizing user's spends summary. The base code can be found in lib/main.dart.
 
 Format for the sample sms used:
 " Debit
