@@ -1,6 +1,12 @@
 # Spend Analyser.
 An android app (made with FLutter) for visualizing user's spends summary. The base code can be found in lib/main.dart.
 
+Categories: Food: Swiggy, Zomato 
+            Shopping: amazon, flipkart
+            Travel: goibibo, irctc
+            Others: gpay, inox
+
+
 Format for the sample sms used:
 " Debit
   INR 3456.05
